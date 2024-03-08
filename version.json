@@ -1,0 +1,21 @@
+{
+    "num": 3,
+    "type":[
+        "wireless",
+        "device"
+    ],
+
+    "wireless": {
+        "name": "MP380_esp32",
+        "ver": "1.0.1",
+        "len": 17560,
+        "md5": ""
+    },
+
+    "device": {
+        "name": "MP380_rt1052",
+        "ver": "1.0.8",
+        "len": 17560,
+        "md5": ""
+    }
+}
