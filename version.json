@@ -7,9 +7,9 @@
         "version": "1.0.3",  
         "releaseDate": "20230401",  
         "changelog": "ESP设备的固件更新，包含了一些重要的性能优化。",  
-        "downloadUrl": "https://example.com/firmware/455350_1.0.3.bin",  
-        "fileSize": 1234567,  
-        "md5": "d41d8cd98f00b204e9800998ecf8427e"
+        "downloadUrl": "https://raw.githubusercontent.com/github-linux/esp32Server/main/hello_world.bin",  
+        "fileSize": 175136,  
+        "md5": "c4355652f2a00b1e0599f25be4910da5"
       }  
     },  
 
