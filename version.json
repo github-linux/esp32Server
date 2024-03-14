@@ -1,29 +1,28 @@
-{  
-  "devices": [  
-    {  
-      "deviceId": "455350",  
-      "modelName": "MP380-ESP32",  
-      "firmware": {  
-        "version": "1.0.3",  
-        "releaseDate": "20230401",  
-        "changelog": "ESP设备的固件更新，包含了一些重要的性能优化。",  
-        "downloadUrl": "https://raw.githubusercontent.com/github-linux/esp32Server/main/hello_world.bin",  
-        "fileSize": 175136,  
-        "md5": "c4355652f2a00b1e0599f25be4910da5"
-      }  
-    },  
-
-    {  
-      "deviceId": "4E5850",  
-      "modelName": "MP380-RT1052",  
-      "firmware": {  
-        "version": "2.1.0",  
-        "releaseDate": "20230315",  
-        "changelog": "NXP设备的固件更新，增加了新功能并修复了若干问题。",  
-        "downloadUrl": "https://example.com/firmware/4E5850_2.1.0.bin",  
-        "fileSize": 2345678,  
-        "md5": "098f6bcd4621d373cade4e832627b4f6"
-      }  
-    }  
-  ]  
+{
+    "devices": [
+        {
+            "modelName": "MP380",
+            "deviceId": "ESP32",
+            "firmware": {
+                "version": "1.0.3",
+                "releaseDate": "20230401",
+                "changelog": "ESP设备的固件更新，包含了一些重要的性能优化。",
+                "downloadUrl": "https://raw.githubusercontent.com/github-linux/esp32Server/main/hello_world.bin",
+                "fileSize": 175136,
+                "md5": "c4355652f2a00b1e0599f25be4910da5"
+            }
+        },
+        {
+            "modelName": "MP380",
+            "deviceId": "RT1052",
+            "firmware": {
+                "version": "2.1.0",
+                "releaseDate": "20230315",
+                "changelog": "NXP设备的固件更新，增加了新功能并修复了若干问题。",
+                "downloadUrl": "https://example.com/firmware/RT1052_2.1.0.bin",
+                "fileSize": 2345678,
+                "md5": "098f6bcd4621d373cade4e832627b4f6"
+            }
+        }
+    ]
 }
