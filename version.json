@@ -8,8 +8,8 @@
                 "releaseDate": "20230401",
                 "changelog": "ESP 性能优化。",
                 "downloadUrl": "https://raw.githubusercontent.com/github-linux/esp32Server/main/hello_world.bin",
-                "fileSize": 175136,
-                "md5": "c4355652f2a00b1e0599f25be4910da5"
+                "fileSize": 175168,
+                "md5": "d87e50a198a1538754c1f3d6df87817d"
             }
         },
         {
