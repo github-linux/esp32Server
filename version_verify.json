@@ -1,0 +1,28 @@
+{
+    "devices": [
+        {
+            "modelName": "MP380",
+            "deviceId": "ESP32",
+            "firmware": {
+                "version": "1.0.3",
+                "releaseDate": "20230401",
+                "changelog": "ESP 设备的性能进行了大幅度优化，用于提高用户体验，以及部分问题的解决。",
+                "downloadUrl": "https://raw.githubusercontent.com/github-linux/esp32Server/main/hello_world.bin",
+                "fileSize": 175168,
+                "md5": "d87e50a198a1538754c1f3d6df87817d"
+            }
+        },
+        {
+            "modelName": "MP380",
+            "deviceId": "RT1052",
+            "firmware": {
+                "version": "2.1.0",
+                "releaseDate": "20230315",
+                "changelog": "NXP 根据需求增加了许多新功能，并且修复了若干个影响使用的问题。",
+                "downloadUrl": "https://raw.githubusercontent.com/github-linux/esp32Server/main/NXP_IMXRT1052_2.1.0.bin",
+                "fileSize": 2345678,
+                "md5": "098f6bcd4621d373cade4e832627b4f6"
+            }
+        }
+    ]
+}
